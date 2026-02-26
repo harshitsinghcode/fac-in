@@ -1,0 +1,13 @@
+# Ignore EVERYTHING
+*
+
+# Allow folders (needed so git can traverse)
+!*/
+
+# Allow only required files
+!mapi.py
+!README.md
+!*.html
+
+# Keep gitignore itself
+!.gitignore
