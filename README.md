@@ -5,7 +5,7 @@ Generates an interactive HTML satellite map with embedded 360° Mapillary viewer
 Clone OpenFACADES into your current folder and install dependencies:
 
 ```bash
-git clone [https://github.com/seshing/OpenFACADES.git](https://github.com/seshing/OpenFACADES.git)
+git clone https://github.com/seshing/OpenFACADES.git
 pip install pandas geopandas shapely folium pydeck datasets
 ```
 ## 🪴usage
